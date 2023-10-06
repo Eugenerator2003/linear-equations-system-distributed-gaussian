@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedGaussianMethodLES", "DistributedGaussianMethodLES.csproj", "{BC97631B-73F2-44EE-8F77-F6456D90021B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedGaussianMethodLESTests", "..\DistributedGaussianMethodLESTests\DistributedGaussianMethodLESTests.csproj", "{28266895-4F57-47D5-9775-C9F1DE18FBD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BC97631B-73F2-44EE-8F77-F6456D90021B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC97631B-73F2-44EE-8F77-F6456D90021B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC97631B-73F2-44EE-8F77-F6456D90021B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28266895-4F57-47D5-9775-C9F1DE18FBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28266895-4F57-47D5-9775-C9F1DE18FBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28266895-4F57-47D5-9775-C9F1DE18FBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28266895-4F57-47D5-9775-C9F1DE18FBD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
